@@ -1,6 +1,7 @@
 # CGAL2
 
 [This project is under development]
+
 CGAL2 is a Genome Assembly Assesment tool with following improvements over CGAL:
 
 1. Runtime improvement for unmapped read likelihood calculation
