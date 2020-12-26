@@ -9,3 +9,5 @@ CGAL2 is a Genome Assembly Assesment tool with following improvements over CGAL:
 3. Additional assesment report for genomic regions
 
 USAGE and other Information will be updated later.
+
+See "manual.pdf" for CGAL usage
